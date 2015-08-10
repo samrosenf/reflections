@@ -17,3 +17,7 @@ By comparing between the staging area to the last commit, and between
 the staging area and the working directory, you know where you stand.
 You can decide if there was a logical change, and commit if necessary.
 
+* What are some situations when branches would be helpful in keeping 
+your history organized? How would branches help?
+Language version. Different Versions. 
+Backup on major points. Experimental Versions.
