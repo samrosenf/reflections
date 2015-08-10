@@ -7,7 +7,13 @@ We do this so we can commit.
 * How is the staging area different from the working directory and
  the repository? What value do you think it offers?
 
-The staging area allows you to choose which files you wanted commited
+The staging area allows you to choose which files you wanted to commit
 while still keeping all the same files in the working directory.
 It gives more flexibility in choosing what to commit.
+
+* How can you use the staging area to make sure you have one commit per logical change?
+
+By comparing between the staging area to the last commit, and between
+the staging area and the working directory, you know where you stand.
+You can decide if there was a logical change, and commit if necessary.
 
