@@ -5,7 +5,7 @@ I was able to concentrate solely on what is different
 and conclude immediately what caused the bug.
 In long files the amount of lines that are the same 
 is much greater than the number of lines which are different.
-It will be wastful to check manually the difference between 
+It will be wasteful to check manually the difference between 
 2 files. And impossible in some cases.
 
 
@@ -40,7 +40,7 @@ while others, like Google Docs, treat each file separately?
 Google docs is used for simple documents that don't depend
 on other files, while, git is used for programing (and other stuff).
 In programing sometimes one file depend on another,
-so saving couple of files toghther make a clean restore point,
+so saving couple of files together make a clean restore point,
 in contrast to saving only one file, which could cause 
 mixed versions of the files, and thus creating bugs.
 
@@ -48,6 +48,6 @@ mixed versions of the files, and thus creating bugs.
 and git diff to view the history of files?
 
 I use git log to find which 2 versions I should compare
-I use git diff to comapre the 2 versions that I chose.
+I use git diff to compare the 2 versions that I chose.
 
 
